@@ -1,0 +1,6 @@
+What is Approval
+Types of Approval
+How many tiers are there in Approval
+How many phases are there in Change Management
+On what phases Approvals are attached in Change
+Change Status
